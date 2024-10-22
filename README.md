@@ -1,4 +1,7 @@
-## Intelligent Daycare: Enhancing Child Safety with IoT and Machine Learning Innovations
+# Reaserch Project Website - R24-126
+# Hosted URL - https://pasanchamikara99.github.io/kidzcarewebsite/
+
+## Intelligent Daycare: Enhancing Child Safety with IoT and Machine Learning Innovations 
 #### This repository contains the static web page created for our research project titled "Intelligent Daycare: Enhancing Child Safety with IoT and Machine Learning Innovations.
 #### The project focuses on utilizing IoT and machine learning technologies to improve child safety in daycare environments.
 
